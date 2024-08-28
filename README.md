@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zsirb
+- 👀 I’m interested in writing my own operating system.
+- 🌱 I’m currently learning C.
